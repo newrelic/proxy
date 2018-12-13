@@ -1,4 +1,9 @@
 
+1.0.0 / 2018-12-13
+==================
+
+  * Updated dependencies with security vulnerabilities.
+
 0.2.4 / 2016-01-18
 ==================
 

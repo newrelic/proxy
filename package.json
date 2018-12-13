@@ -1,5 +1,5 @@
 {
-  "name": "proxy",
+  "name": "@newrelic/proxy",
   "version": "0.2.4",
   "description": "An HTTP proxy written with Node.js (think Squid)",
   "main": "proxy.js",
@@ -22,9 +22,16 @@
     "x-forwarded-for"
   ],
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "contributors": [
+      {
+        "name": "Peter Svetlichny",
+        "email": "psvetlichny@newrelic.com",
+        "web": "https://newrelic.com"
+      }
+    ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/proxy.git"
+    "url": "git://github.com/newrelic/proxy.git"
   },
   "license": "MIT",
   "dependencies": {

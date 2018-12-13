@@ -1,7 +1,10 @@
 proxy
 =====
 ### An HTTP proxy written with Node.js (think Squid)
-[![Build Status](https://travis-ci.org/TooTallNate/proxy.svg?branch=master)](https://travis-ci.org/TooTallNate/proxy)
+[![Build Status](https://travis-ci.org/newrelic/proxy.svg?branch=master)](https://travis-ci.org/newrelic/proxy)
+
+This is a fork of [TooTallNate/proxy](https://github.com/TooTallNate/proxy) with
+updated deps.
 
 This module provides standard "HTTP proxy" logic. You can script your own server
 using the `proxy` server API. Be sure to take a look at the "Examples" section
