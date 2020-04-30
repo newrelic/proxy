@@ -1,3 +1,8 @@
+2.0.0 / 2020-04-30
+==================
+
+  * Updated dependencies with security vulnerabilities.
+  * Dropped Node versions from CI that are not supported.
 
 1.0.0 / 2018-12-13
 ==================
