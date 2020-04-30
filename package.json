@@ -35,12 +35,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "args": "3.0.2",
+    "args": "^5.0.1",
     "basic-auth-parser": "0.0.2",
     "debug": "^3.2.6"
   },
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^7.1.2",
     "pkg": "^4.3.5"
   },
   "pkg": {
